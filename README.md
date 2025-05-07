@@ -26,8 +26,10 @@ same subpath.
 
 ## Dotenv config
 
+```dotenv
 DOMAIN=https://api.openaerialmap.org
 GOOGLE_CLIENT_ID=xxx
 GOOGLE_CLIENT_SECRET=xxx
 GOOGLE_REDIRECT_URI=https://api.openaerialmap.org/oauth/callback
 IRON_PASSWORD=the_iron_password_used_in_oam_api_cookiePassword_param
+```
